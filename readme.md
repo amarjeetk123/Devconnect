@@ -60,7 +60,7 @@ MERN / MEAN Stack Developer
 
 - LinkedIn: https://linkedin.com/in/amarjeet-kumar-46b79b236  
 - Instagram: https://instagram.com/amarkumar.aaryan.5  
-- Email: ak123del@gmail.com  
+- Email: amarjeetkumar.developer@gmail.com 
 
 ---
 
